@@ -6,7 +6,7 @@ header {
     display: flex;
     justify-content: space-between;
     min-height: 70px;
-    background: blue;
+    background-color: rgb(17, 17, 63);
     align-items: center;
     padding: 10px;
 }
@@ -16,7 +16,7 @@ nav a{
 }
 
 nav a:hover{
-    color: white;
+    color: rgb(72, 225, 215);
 }
 
 .logo{
@@ -30,6 +30,6 @@ nav a:hover{
 }
 
 a{
-    color: black;
+    color: white;
     text-decoration: none;
 }
